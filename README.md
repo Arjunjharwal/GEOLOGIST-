@@ -1,2 +1,2 @@
-# GEOLOGIST-
-Franky is a geologist
+# Geologist
+Geologist Project
